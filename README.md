@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 - 🔥 I'm a C# Developer from <b>Minas Gerais, <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="15"/> Brazil</b>
-- 💻 Some technologies I work with are C#, SQL and Git
+- 💻 Some technologies I work with are C#, SQL and WinForms
 - 💙 Passionate about technological innovations and programming, self-taught and endowed with a lot of curiosity about the world of technology
 
 
@@ -21,7 +21,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
