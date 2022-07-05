@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Max Moreira</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> 𝐼'𝑚 𝑀𝑎𝑥 𝑀𝑜𝑟𝑒𝑖𝑟𝑎</h1>
 
 <img align="right" height="120" src="https://i.gifer.com/origin/36/36f6af196328300ef2f4ea130be42d89_w200.gif"/>
 
