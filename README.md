@@ -2,7 +2,7 @@
 
 <img align="right" height="120" src="https://i.gifer.com/origin/36/36f6af196328300ef2f4ea130be42d89_w200.gif"/>
 
-🔥 **Dev Intern** at [@90Ti](https://noventa.com.br/).
+🔥 **Student at PUC Minas**.
 
 <a href="https://www.linkedin.com/in/moreira-max/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔥 I'm a C# Developer from <b>Minas Gerais, <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="15"/> Brazil</b>
+- 🔥 I'm a C# Developer and QA Test Analyst from <b>Minas Gerais, <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="15"/> Brazil</b>
 - 💻 Some technologies I work with are C#, SQL and WinForms
 - 💙 Passionate about technological innovations and programming, self-taught and endowed with a lot of curiosity about the world of technology
 
